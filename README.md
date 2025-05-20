@@ -1,0 +1,1 @@
+Built a machine learning model to analyze Twitter comments and classify them into six emotions: joy, sadness, anger, fear, surprise, and love. Used text processing, model training, and Python (Streamlit) to create an interactive sentiment analysis tool for real-time insights
